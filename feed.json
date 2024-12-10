@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-paginas-de-ventas-de-canva.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-paginas-de-ventas-de-canva.html",
+            "title": "Plantillas de Canva completamente diseñadas",
+            "summary": "Plantillas de páginas de ventas de Canva completamente diseñadas y paquetes de&hellip;",
+            "content_html": "<h4><strong>Plantillas de páginas de ventas de Canva completamente diseñadas y paquetes de plantillas de redes sociales para entrenadores, creadores de cursos, profesionales del bienestar y más.</strong></h4>\n<p>Páginas de ventas de alta conversión: diseñadas estratégicamente para convertir a los visitantes en clientes generando confianza.</p>\n<p>Paquetes de plantillas para redes sociales PLUS diseñados para complementar el diseño de su página de ventas y hacer que las redes sociales vuelvan a ser divertidas y fáciles.</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/26/Skin-Deep-Listing.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Páginas de Venta"
+            ],
+            "date_published": "2024-12-10T18:17:11-03:00",
+            "date_modified": "2024-12-10T18:18:12-03:00"
+        },
+        {
             "id": "https://gabrielgenri.github.io/paginadeventa/redes-sociales.html",
             "url": "https://gabrielgenri.github.io/paginadeventa/redes-sociales.html",
             "title": "Redes Sociales",
@@ -148,22 +164,6 @@
             ],
             "date_published": "2024-12-09T18:49:25-03:00",
             "date_modified": "2024-12-09T18:49:25-03:00"
-        },
-        {
-            "id": "https://gabrielgenri.github.io/paginadeventa/disenados-para-ayudarte-a-tener-exito.html",
-            "url": "https://gabrielgenri.github.io/paginadeventa/disenados-para-ayudarte-a-tener-exito.html",
-            "title": "DISEÑADOS PARA AYUDARTE A TENER ÉXITO",
-            "summary": "Sitios Web DISEÑADOS PARA AYUDARTE A TENER ÉXITO con estilo. Si eres un&hellip;",
-            "content_html": "<p>Sitios Web DISEÑADOS PARA AYUDARTE A TENER ÉXITO con estilo. </p>\n<p>Si eres un entrenador o un creador que está cansado de perder días tratando de entender OTRO constructor de páginas demasiado complicado, o navegar por las turbias aguas de la estructura de la página de ventas ( ¡Sí... te veo! ), mi paquete gratuito de páginas de ventas de Canva y las plantillas de páginas de ventas de Canva completamente diseñadas te ahorrarán HORAS y LO HARÁN SIMPLE, para que puedas concentrarte en lo que haces mejor ( y tener una hermosa página de ventas que ayude a generar ingresos).</p>",
-            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/4/Arch-Featured.jpg",
-            "author": {
-                "name": "Gabriel Genri"
-            },
-            "tags": [
-                   "Sitios Web"
-            ],
-            "date_published": "2024-12-09T18:00:07-03:00",
-            "date_modified": "2024-12-09T18:31:52-03:00"
         }
     ]
 }
