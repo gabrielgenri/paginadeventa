@@ -1,0 +1,169 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PáginaDeVenta",
+    "description": "",
+    "home_page_url": "https://gabrielgenri.github.io/paginadeventa",
+    "feed_url": "https://gabrielgenri.github.io/paginadeventa/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gabriel Genri"
+    },
+    "items": [
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/dfdfhdfdf.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/dfdfhdfdf.html",
+            "title": "dfdfhdfdf",
+            "summary": "fdd fdf",
+            "content_html": "<p>fdd</p>\n<div>\n<div> &lt;script src=\"https://kit.fontawesome.com/56e388931d.js\" crossorigin=\"anonymous\"&gt;&lt;/script&gt;</div>\n</div>\n<p>fdf</p>\n<!-- Classic family icons in available styles (Font Awesome Classic is the default) -->\n<p><i class=\"fa-solid fa-user\"></i> <i class=\"fa-regular fa-user\"></i> <i class=\"fa-light fa-user\"></i> <i class=\"fa-thin fa-user\"></i></p>\n<!-- You can also explicitly state the classic family like this -->\n<p> </p>\n<!-- Font Awesome Duotone family icon -->\n<p><i class=\"fa-duotone fa-solid fa-user\"></i> <i class=\"fa-duotone fa-regular fa-user\"></i> <i class=\"fa-duotone fa-light fa-user\"></i> <i class=\"fa-duotone fa-thin fa-user\"></i></p>\n<!-- Font Awesome Sharp family icons in available styles -->\n<p><i class=\"fa-sharp fa-solid fa-user\"></i> <i class=\"fa-sharp fa-regular fa-user\"></i> <i class=\"fa-sharp fa-light fa-user\"></i> <i class=\"fa-sharp fa-thin fa-user\"></i></p>\n<!-- Font Awesome Sharp Duotone family icon -->\n<p><i class=\"fa-sharp-duotone fa-solid fa-user\"></i> <i class=\"fa-sharp-duotone fa-regular fa-user\"></i> <i class=\"fa-sharp-duotone fa-light fa-user\"></i> <i class=\"fa-sharp-duotone fa-thin fa-user\"></i></p>\n<!-- a Brands icon -->\n<p> </p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/14/image-asset.jpeg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Sitios Web"
+            ],
+            "date_published": "2024-12-09T21:47:20-03:00",
+            "date_modified": "2024-12-09T21:48:51-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/la-coleccion-de-redes-sociales.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/la-coleccion-de-redes-sociales.html",
+            "title": "La colección de redes sociales",
+            "summary": "Plantillas de redes sociales diseñadas intencionalmente para brindarle una amplia gama de&hellip;",
+            "content_html": "<p>Plantillas de redes sociales diseñadas intencionalmente para brindarle una amplia gama de plantillas útiles y elevadas para promover, hacer crecer y exhibir su marca.</p>\n<p>Fácil de personalizar, tanto para publicaciones como para historias/reels, y todo editable en el editor en línea intuitivo de Canva, incluso en un plan gratuito.</p>\n<p>¿Está cansado de buscar entre cientos de plantillas de redes sociales para encontrar la adecuada para su mensaje y de tener que hacerlo todo de nuevo al día siguiente?</p>\n<p>¿Estás cansado de intentar ser Jefe de Diseño, además de CEO y Gerente de Marca, todo mientras intentas complacer un algoritmo en constante cambio?</p>\n<p>¿Necesita diseños elevados y consistentes que sean fáciles de usar, que le permitan crear contenido que se vea bien y generen participación?</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/13/Mandala-Listing.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Redes Sociales"
+            ],
+            "date_published": "2024-12-09T19:12:47-03:00",
+            "date_modified": "2024-12-09T19:12:47-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/tutoriales-para-mejorar-tus-habilidades-2.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/tutoriales-para-mejorar-tus-habilidades-2.html",
+            "title": "TUTORIALES: PARA MEJORAR TUS HABILIDADES",
+            "summary": "Si busca un poco de orientación para mejorar sus habilidades en marca,&hellip;",
+            "content_html": "<p>Si busca un poco de orientación para mejorar sus habilidades en marca, diseño y marketing para su negocio en línea, suscríbase a nuestro canal de YouTube para ver videos semanales que lo ayudarán a construir una marca y un negocio más fuertes y memorables.<br><br>MEJORA TUS HABILIDADES</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/12/Cover-Various-Dark.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Páginas de Venta"
+            ],
+            "date_published": "2024-12-09T18:54:04-03:00",
+            "date_modified": "2024-12-09T19:39:19-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/tutoriales-para-mejorar-tus-habilidades.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/tutoriales-para-mejorar-tus-habilidades.html",
+            "title": "TUTORIALES: PARA MEJORAR TUS HABILIDADES",
+            "summary": "Si busca un poco de orientación para mejorar sus habilidades en marca,&hellip;",
+            "content_html": "<p>Si busca un poco de orientación para mejorar sus habilidades en marca, diseño y marketing para su negocio en línea, suscríbase a nuestro canal de YouTube para ver videos semanales que lo ayudarán a construir una marca y un negocio más fuertes y memorables.<br><br>MEJORA TUS HABILIDADES</p>",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-09T18:54:01-03:00",
+            "date_modified": "2024-12-09T18:54:01-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/paquete-de-plantillas-canva-de-videos-sociales-animados.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/paquete-de-plantillas-canva-de-videos-sociales-animados.html",
+            "title": "Paquete de plantillas Canva de vídeos sociales animados",
+            "summary": "6 plantillas de videos sociales animados que puedes personalizar fácilmente para tu&hellip;",
+            "content_html": "<p>6 plantillas de videos sociales animados que puedes personalizar fácilmente para tu producto, programa o servicio en Canva, ¡gratis!</p>\n<p>MÁS MINICURSO GRATUITO<br><br>¡CON INSTRUCCIONES EN VIDEO PASO A PASO PARA AYUDARTE A PERSONALIZAR CADA PLANTILLA PARA QUE FUNCIONE PERFECTAMENTE PARA TU MARCA!<br><br>Introduzca sus datos ahora:<br><br>OBTENGA SUS PLANTILLAS</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/10/Arch-Featured.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Redes Sociales"
+            ],
+            "date_published": "2024-12-09T18:52:36-03:00",
+            "date_modified": "2024-12-09T18:52:36-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/el-diseno-importa-mas-de-lo-que-crees.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/el-diseno-importa-mas-de-lo-que-crees.html",
+            "title": "El diseño importa más de lo que crees.",
+            "summary": "El 75% de los consumidores juzgan la credibilidad de una empresa basándose&hellip;",
+            "content_html": "<p>El 75% de los consumidores juzgan la credibilidad de una empresa basándose en su diseño; mientras que el diseño de su presencia en línea cuenta para el 94% de las primeras impresiones que alguien tiene de su marca.<br><br>Pero seamos honestos: no todo el mundo es diseñador, ¡ y no debería serlo!   Deberías centrarte en lo que TÚ haces mejor, no en intentar ser todo para todos.<br><br>Las plantillas creadas por Wayne están diseñadas para ayudarte a mejorar el diseño de tu marca Y mejorar las ventas SIN quitarte horas de tu tiempo y sin agregar nada a una lista de tareas que ya es bastante impresionante.<br><br>ALMACEN     ACERCA DE MÍ</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/8/SkinDeep-Featured.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Sitios Web"
+            ],
+            "date_published": "2024-12-09T18:50:30-03:00",
+            "date_modified": "2024-12-09T18:50:30-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-canva-para-paginas-de-ventas-2.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-canva-para-paginas-de-ventas-2.html",
+            "title": "Plantillas de Canva para páginas de ventas",
+            "summary": "Nuestras elegantes plantillas son perfectas para entrenadores, creativos, influencers, pequeñas empresas y&hellip;",
+            "content_html": "<p>Nuestras elegantes plantillas son perfectas para entrenadores, creativos, influencers, pequeñas empresas y emprendedores que quieren elevar su marca Y destacarse. Diseñadas para usuarios de Canva de todos los niveles, estas plantillas son rápidas y fáciles de personalizar (y publicar en línea); están estructuradas estratégicamente para convertir y diseñadas para causar impacto, con estilo.<br><br>VER LA COLECCIÓN DE PLANTILLAS DE PÁGINA DE VENTAS</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/7/Stone-Featured.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Páginas de Venta"
+            ],
+            "date_published": "2024-12-09T18:49:34-03:00",
+            "date_modified": "2024-12-09T18:49:34-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-canva-para-paginas-de-ventas.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/plantillas-de-canva-para-paginas-de-ventas.html",
+            "title": "Plantillas de Canva para páginas de ventas",
+            "summary": "Nuestras elegantes plantillas son perfectas para entrenadores, creativos, influencers, pequeñas empresas y&hellip;",
+            "content_html": "<p>Nuestras elegantes plantillas son perfectas para entrenadores, creativos, influencers, pequeñas empresas y emprendedores que quieren elevar su marca Y destacarse. Diseñadas para usuarios de Canva de todos los niveles, estas plantillas son rápidas y fáciles de personalizar (y publicar en línea); están estructuradas estratégicamente para convertir y diseñadas para causar impacto, con estilo.<br><br>VER LA COLECCIÓN DE PLANTILLAS DE PÁGINA DE VENTAS</p>",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-09T18:49:25-03:00",
+            "date_modified": "2024-12-09T18:49:25-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/disenados-para-ayudarte-a-tener-exito.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/disenados-para-ayudarte-a-tener-exito.html",
+            "title": "DISEÑADOS PARA AYUDARTE A TENER ÉXITO",
+            "summary": "Sitios Web DISEÑADOS PARA AYUDARTE A TENER ÉXITO con estilo. Si eres un&hellip;",
+            "content_html": "<p>Sitios Web DISEÑADOS PARA AYUDARTE A TENER ÉXITO con estilo. </p>\n<p>Si eres un entrenador o un creador que está cansado de perder días tratando de entender OTRO constructor de páginas demasiado complicado, o navegar por las turbias aguas de la estructura de la página de ventas ( ¡Sí... te veo! ), mi paquete gratuito de páginas de ventas de Canva y las plantillas de páginas de ventas de Canva completamente diseñadas te ahorrarán HORAS y LO HARÁN SIMPLE, para que puedas concentrarte en lo que haces mejor ( y tener una hermosa página de ventas que ayude a generar ingresos).</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/4/Arch-Featured.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Sitios Web"
+            ],
+            "date_published": "2024-12-09T18:00:07-03:00",
+            "date_modified": "2024-12-09T18:31:52-03:00"
+        },
+        {
+            "id": "https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html",
+            "title": "Construimos una audiencia. Lanza tu oferta .",
+            "summary": "Plantillas de Canva para redes sociales Deja de desplazarte y mira de&hellip;",
+            "content_html": "<h2><strong>Plantillas de Canva para redes sociales</strong></h2>\n<p>Deja de desplazarte y mira de reojo el algoritmo con nuestras plantillas de redes sociales de Canva fáciles de usar. Transmite tu mensaje y luce fabuloso al hacerlo. Con 60 plantillas en total en cada paquete (30 diseños individuales cada uno en 2 tamaños), puedes tener contenido suficiente para crear una presencia hermosa Y efectiva en las redes sociales de manera rápida y sencilla.</p>\n<p><a href=\"https://www.createdbywayne.com/socialmediacollection\">VER LA COLECCIÓN DE PLANTILLAS PARA REDES SOCIALES</a></p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/3/SkinDeep-Featured.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Redes Sociales"
+            ],
+            "date_published": "2024-12-09T17:56:32-03:00",
+            "date_modified": "2024-12-09T18:32:01-03:00"
+        }
+    ]
+}
