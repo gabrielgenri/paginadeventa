@@ -3,7 +3,7 @@
     <title>PáginaDeVenta</title>
     <link href="https://gabrielgenri.github.io/paginadeventa/feed.xml" rel="self" />
     <link href="https://gabrielgenri.github.io/paginadeventa" />
-    <updated>2024-12-09T21:48:51-03:00</updated>
+    <updated>2024-12-09T22:58:07-03:00</updated>
     <author>
         <name>Gabriel Genri</name>
     </author>
@@ -37,7 +37,8 @@
 <!-- Classic family icons in available styles (Font Awesome Classic is the default) -->
 <p><i class="fa-solid fa-user"></i> <i class="fa-regular fa-user"></i> <i class="fa-light fa-user"></i> <i class="fa-thin fa-user"></i></p>
 <!-- You can also explicitly state the classic family like this -->
-<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://gabrielgenri.github.io/paginadeventa/media/posts/14/Store-header.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/Store-header-xs.jpg 300w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/Store-header-sm.jpg 480w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/Store-header-md.jpg 768w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/Store-header-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://gabrielgenri.github.io/paginadeventa/media/posts/14/image-asset-2.jpeg" alt="" width="2500" height="1667" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/image-asset-2-xs.jpeg 300w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/image-asset-2-sm.jpeg 480w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/image-asset-2-md.jpeg 768w ,https://gabrielgenri.github.io/paginadeventa/media/posts/14/responsive/image-asset-2-lg.jpeg 1024w"></figure>
 <!-- Font Awesome Duotone family icon -->
 <p><i class="fa-duotone fa-solid fa-user"></i> <i class="fa-duotone fa-regular fa-user"></i> <i class="fa-duotone fa-light fa-user"></i> <i class="fa-duotone fa-thin fa-user"></i></p>
 <!-- Font Awesome Sharp family icons in available styles -->
