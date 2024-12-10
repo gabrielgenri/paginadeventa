@@ -3,12 +3,36 @@
     <title>PáginaDeVenta</title>
     <link href="https://gabrielgenri.github.io/paginadeventa/feed.xml" rel="self" />
     <link href="https://gabrielgenri.github.io/paginadeventa" />
-    <updated>2024-12-09T22:59:56-03:00</updated>
+    <updated>2024-12-09T23:04:51-03:00</updated>
     <author>
         <name>Gabriel Genri</name>
     </author>
     <id>https://gabrielgenri.github.io/paginadeventa</id>
 
+    <entry>
+        <title>Redes Sociales</title>
+        <author>
+            <name>Gabriel Genri</name>
+        </author>
+        <link href="https://gabrielgenri.github.io/paginadeventa/redes-sociales.html"/>
+        <id>https://gabrielgenri.github.io/paginadeventa/redes-sociales.html</id>
+        <media:content url="https://gabrielgenri.github.io/paginadeventa/media/posts/16/Arch-Listing.jpg" medium="image" />
+            <category term="Redes Sociales"/>
+
+        <updated>2024-12-09T23:04:51-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gabrielgenri.github.io/paginadeventa/media/posts/16/Arch-Listing.jpg" alt="" />
+                    Gestionamos tu presencia en redes para que crezcas con estilo.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gabrielgenri.github.io/paginadeventa/media/posts/16/Arch-Listing.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Gestionamos tu presencia en redes para que crezcas con estilo.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>dfdfhdfdf</title>
         <author>
@@ -237,32 +261,6 @@
                     <p><img src="https://gabrielgenri.github.io/paginadeventa/media/posts/4/Arch-Featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Sitios Web DISEÑADOS PARA AYUDARTE A TENER ÉXITO con estilo. </p>
 <p>Si eres un entrenador o un creador que está cansado de perder días tratando de entender OTRO constructor de páginas demasiado complicado, o navegar por las turbias aguas de la estructura de la página de ventas ( ¡Sí... te veo! ), mi paquete gratuito de páginas de ventas de Canva y las plantillas de páginas de ventas de Canva completamente diseñadas te ahorrarán HORAS y LO HARÁN SIMPLE, para que puedas concentrarte en lo que haces mejor ( y tener una hermosa página de ventas que ayude a generar ingresos).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Construimos una audiencia. Lanza tu oferta .</title>
-        <author>
-            <name>Gabriel Genri</name>
-        </author>
-        <link href="https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html"/>
-        <id>https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html</id>
-        <media:content url="https://gabrielgenri.github.io/paginadeventa/media/posts/3/SkinDeep-Featured.jpg" medium="image" />
-            <category term="Redes Sociales"/>
-
-        <updated>2024-12-09T17:56:32-03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gabrielgenri.github.io/paginadeventa/media/posts/3/SkinDeep-Featured.jpg" alt="" />
-                    Plantillas de Canva para redes sociales Deja de desplazarte y mira de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gabrielgenri.github.io/paginadeventa/media/posts/3/SkinDeep-Featured.jpg" class="type:primaryImage" alt="" /></p>
-                <h2><strong>Plantillas de Canva para redes sociales</strong></h2>
-<p>Deja de desplazarte y mira de reojo el algoritmo con nuestras plantillas de redes sociales de Canva fáciles de usar. Transmite tu mensaje y luce fabuloso al hacerlo. Con 60 plantillas en total en cada paquete (30 diseños individuales cada uno en 2 tamaños), puedes tener contenido suficiente para crear una presencia hermosa Y efectiva en las redes sociales de manera rápida y sencilla.</p>
-<p><a href="https://www.createdbywayne.com/socialmediacollection">VER LA COLECCIÓN DE PLANTILLAS PARA REDES SOCIALES</a></p>
             ]]>
         </content>
     </entry>

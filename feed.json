@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://gabrielgenri.github.io/paginadeventa/redes-sociales.html",
+            "url": "https://gabrielgenri.github.io/paginadeventa/redes-sociales.html",
+            "title": "Redes Sociales",
+            "summary": "Gestionamos tu presencia en redes para que crezcas con estilo.",
+            "content_html": "<p>Gestionamos tu presencia en redes para que crezcas con estilo.</p>",
+            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/16/Arch-Listing.jpg",
+            "author": {
+                "name": "Gabriel Genri"
+            },
+            "tags": [
+                   "Redes Sociales"
+            ],
+            "date_published": "2024-12-09T23:04:51-03:00",
+            "date_modified": "2024-12-09T23:04:51-03:00"
+        },
+        {
             "id": "https://gabrielgenri.github.io/paginadeventa/dfdfhdfdf.html",
             "url": "https://gabrielgenri.github.io/paginadeventa/dfdfhdfdf.html",
             "title": "dfdfhdfdf",
@@ -148,22 +164,6 @@
             ],
             "date_published": "2024-12-09T18:00:07-03:00",
             "date_modified": "2024-12-09T18:31:52-03:00"
-        },
-        {
-            "id": "https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html",
-            "url": "https://gabrielgenri.github.io/paginadeventa/construimos-una-audiencia-lanza-tu-oferta.html",
-            "title": "Construimos una audiencia. Lanza tu oferta .",
-            "summary": "Plantillas de Canva para redes sociales Deja de desplazarte y mira de&hellip;",
-            "content_html": "<h2><strong>Plantillas de Canva para redes sociales</strong></h2>\n<p>Deja de desplazarte y mira de reojo el algoritmo con nuestras plantillas de redes sociales de Canva fáciles de usar. Transmite tu mensaje y luce fabuloso al hacerlo. Con 60 plantillas en total en cada paquete (30 diseños individuales cada uno en 2 tamaños), puedes tener contenido suficiente para crear una presencia hermosa Y efectiva en las redes sociales de manera rápida y sencilla.</p>\n<p><a href=\"https://www.createdbywayne.com/socialmediacollection\">VER LA COLECCIÓN DE PLANTILLAS PARA REDES SOCIALES</a></p>",
-            "image": "https://gabrielgenri.github.io/paginadeventa/media/posts/3/SkinDeep-Featured.jpg",
-            "author": {
-                "name": "Gabriel Genri"
-            },
-            "tags": [
-                   "Redes Sociales"
-            ],
-            "date_published": "2024-12-09T17:56:32-03:00",
-            "date_modified": "2024-12-09T18:32:01-03:00"
         }
     ]
 }
